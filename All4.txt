@@ -1,0 +1,16 @@
+# All 4 (formerly 4OD) blocklist.
+# See https://github.com/easylist/easylist/issues/12268
+# 
+# Note that this is primarily for the All 4 app and may need tweaking for the
+# website (e.g., as accessed from the Nvidia Shield).
+#
+# fwmrm.net entries already blocked? 
+#||2356e.v.fwmrm.net^
+#||2a7e9.v.fwmrm.net^
+||ads-pres.channel4.com^
+||cdn.http.anno.channel4.com^
+||cdn.ss.anno.channel4.com^
+||p.videologygroup.com^
+||securecdn.videologygroup.com^
+||toots-a.akamaihd.net^
+||trk-euwest.tidaltv.com^
